@@ -1,9 +1,5 @@
 # 🎵 Spotify Song Intelligence Dashboard
 
-An end-to-end Machine Learning project built using the Spotify Tracks dataset to explore song characteristics, perform data analysis, and predict song popularity.
-
-This project was created as part of my AI/ML learning journey to gain hands-on experience with real-world datasets and the complete machine learning workflow.
-
 ---
 
 ## 📌 Project Overview
@@ -92,11 +88,10 @@ Models were evaluated using:
 ---
 
 ## 📷 Sample Visualizations
+- <img width="989" height="986" alt="WhatsApp Image 2026-07-07 at 20 02 52" src="https://github.com/user-attachments/assets/10df625d-a066-45a0-8a60-b070427f4321" />
+<img width="585" height="455" alt="WhatsApp Image 2026-07-07 at 20 00 53" src="https://github.com/user-attachments/assets/6c758df0-b32f-43da-a352-8a13bcc9a3f6" />
+<img width="776" height="665" alt="WhatsApp Image 2026-07-07 at 19 58 25" src="https://github.com/user-attachments/assets/c51e37d1-8c06-46a9-9413-3c113c567ded" />
 
-- Correlation Heatmap
-- Pairplot
-- Top Artists by Number of Songs
-- Tempo Distribution
 ---
 
 ## 📂 Repository Structure
